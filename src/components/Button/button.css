@@ -1,0 +1,18 @@
+.Button {
+  color: white;
+  padding: 12px 16px;
+  border: 1px solid black;
+}
+
+.Button.btn--primary {
+  background-color: #2980B9;
+}
+.Button.btn--secondary {
+  background-color: #2ECC71;
+}
+.Button.btn--large {
+  width: 100%;
+}
+.Button.btn-normal {
+  width: auto;
+}
